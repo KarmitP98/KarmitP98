@@ -19,7 +19,7 @@ I am a Frontend Web Developer based out of Toronto! I enjoy working on UI / UX d
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-- 🔭 I’m currently working on creating a public facing site for <a href="[weightechsolutions.ca](https://weightechsolutions.ca/)">🌐 Weigh-Tech Solutions Inc.</a>
+- 🔭 I’m currently working on creating a public facing site for <a href="[weightechsolutions.ca](https://weightechsolutions.ca/)" target="_self">🌐 Weigh-Tech Solutions Inc.</a>
 - 📫 How to reach me: karmit199@gmail.com <a href="tel:6475755240">(+1-647-575-5240)</a>
 
 
