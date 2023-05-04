@@ -14,6 +14,10 @@ I am a Frontend Web Developer based out of Toronto! I enjoy working on UI / UX d
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 - 🔭 I’m currently working on A claims tracking mobile application where you can keep track all our medical, insurance, and claims submitted to your company. [Ideation Phase] 
 - 📫 How to reach me: karmit199@gmail.com <a href="tel:6475755240">(+1-647-575-5240)</a>
