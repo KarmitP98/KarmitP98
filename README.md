@@ -30,7 +30,3 @@ I am a Frontend Web Developer based out of Toronto! I enjoy working on UI / UX d
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KarmitP98)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarmitP98&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=KarmitP98)  
-
-![Profile views](https://gpvc.arturio.dev/KarmitP98)  
